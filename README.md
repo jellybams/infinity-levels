@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/spoolphiz/infinity-levels/master/screenshot.png# Infinity Levels Log Parser
+# Infinity Levels Log Parser
 
 To run the script clone this repo, `cd` into the cloned repo's directory and run the following commands:
 
