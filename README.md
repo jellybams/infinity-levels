@@ -1,11 +1,11 @@
-## Infinity Levels Log Parser
+https://raw.githubusercontent.com/spoolphiz/infinity-levels/master/screenshot.png# Infinity Levels Log Parser
 
-To run the script clone this repo then:
+To run the script clone this repo, `cd` into the cloned repo's directory and run the following commands:
 
-`npm install`
-`node index`
+* `npm install`
+* `node index`
 
 You will see the following output:
 
 ![execution screenshot]
-(https://github.com/spoolphiz/infinity-levels)
+(https://raw.githubusercontent.com/spoolphiz/infinity-levels/master/screenshot.png)
