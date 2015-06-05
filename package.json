@@ -12,10 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/spoolphis/infinity-levels.git"
+    "url": "https://github.com/spoolphiz/infinity-levels.git"
   },
   "dependencies": {
-    "async": "^1.2.0",
     "cli-table": "^0.3.1",
     "logfmt": "^1.2.0",
     "through": "^2.3.7"

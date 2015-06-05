@@ -1,6 +1,4 @@
 var inputFile = './sample.log';
-
-var async = require('async');
 var fs = require('fs');
 var logfmt = require('logfmt');
 var through = require('through');
